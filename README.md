@@ -17,3 +17,4 @@ key performance metrics and trends.
 • Shared actionable insights with stakeholders based 
 on dashboard findings to support decision-making 
 processes.
+![C:\Users\Harsh chaturvedi\Desktop\Peoject_final_year](Customer_report.png)
