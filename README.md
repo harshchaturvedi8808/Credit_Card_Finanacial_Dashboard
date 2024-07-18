@@ -1,5 +1,5 @@
 # Credit_Card_Finanacial_Dashboard
-Credit card financial dashboard using Power BI 
+Created a PowerBi Dashboard of a Credit Card Transaction Report and a Credit Card Customer Report, providing insights to enhance business strategies and customer satisfaction.
 # Project Objective
 To develop a comprehensive credit 
 card weekly dashboard that 
